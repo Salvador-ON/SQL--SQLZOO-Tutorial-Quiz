@@ -1,11 +1,11 @@
 # Microverse - SQL -SQL ZOO Project
 
 > In this project, I got the chance to practice my SQL skills using SQL ZOO tutorial and quiz.
-I cretaed multiple pdf ( 1 per tutorial and 1 per quiz), to have evidence on my work at SQLZOO
+I created multiple pdf ( 1 per tutorial and 1 per quiz), to have evidence on my work at SQLZOO.
 
 ## Built With
 
-- SQL
+- SQL.
 
 ## Getting Started
 
@@ -18,11 +18,6 @@ I cretaed multiple pdf ( 1 per tutorial and 1 per quiz), to have evidence on my 
 - Twitter: [@Salvador Olvera_ON](https://twitter.com/Salvador_ON)
 - Github: [@Salvador-ON](https://github.com/Salvador-ON)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](./issues/).
 
 ## Show your support
 
